@@ -24,3 +24,19 @@ Cloud IoT Core has two main components:
 
 Refer: https://iamvigneshc-mydigitalworld.blogspot.com/2020/11/building-iot-analytics-pipeline-on.html
 
+
+## Data Flow:
+
+![Image of CloudBuild](https://github.com/IamVigneshC/Building-an-IoT-Analytics-Pipeline-on-Google-Cloud/blob/main/streaming%20workflow.PNG)
+
+
+## IOT Device Simulator running Python code and ingest data into table
+
+![Image of CloudBuild](https://github.com/IamVigneshC/Building-an-IoT-Analytics-Pipeline-on-Google-Cloud/blob/main/IOT_Device_Simulator.PNG)
+
+
+## BigQuery table data
+
+![Image of CloudBuild](https://github.com/IamVigneshC/Building-an-IoT-Analytics-Pipeline-on-Google-Cloud/blob/main/Data%20ingested%20into%20table.PNG)
+
+
