@@ -1,5 +1,7 @@
 # Building-an-IoT-Analytics-Pipeline-on-Google-Cloud
 
+Analyze IoT data streams easily with Cloud IoT Core using Cloud Pub/Sub, Cloud Dataflow, and BigQuery.
+
 We will Perform the following:
 
 
